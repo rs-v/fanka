@@ -6,7 +6,7 @@ window.onload=function(){
 	buhao.onclick=function(){
 		Dianji++;
 		if(Dianji==1){
-	   			alert("小姐姐在考虑一下呗");
+	   			alert("小哥哥在考虑一下呗，丛干事送给你");
 	   }else if(Dianji==2){
 		   		alert("你是我见过的最帅气善良可爱的男孩");
 		   		
@@ -21,13 +21,13 @@ window.onload=function(){
 	  }else if(Dianji==6){
 		   		alert("房子写你名");
 	  }else if(Dianji==7){
-		   		alert("工资全上交");
+		   		alert("工资全上交，丛干事送给你");
 		  		Dianji=1;
 	  }
 
 	}
 	hao.onclick=function(){
-		alert("小姐姐终于同意了，我爱你");
+		alert("小哥哥终于同意了，我爱你");
 	}
 	
 
