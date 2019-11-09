@@ -77,10 +77,11 @@ body {
     left: 15px;
     top: 5px;
     z-index: 9999
+	color:#AAA;
 }
 
 .signature a {
-    color: #333
+    color:#AAA;
 }
 
 .signature a:hover {
