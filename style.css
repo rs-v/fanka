@@ -18,6 +18,15 @@
     src: url(src/RocknRoll_Typo_bold.ttf);
 }
 
+#jk{position:relative;
+left:800px;
+top:200px;
+
+background:#AAA;
+opacity:0.8;
+}
+
+
 html,
 body {
     font-family: Coprhtl;
